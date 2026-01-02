@@ -1,4 +1,4 @@
-const API_KEY = "af36e5304c4cca853564eafaba6c1972"; //API KEY
+const API_KEY = "API_KEY"; //API KEY
 
 const cityInput = document.getElementById("cityInput");
 const searchBtn = document.getElementById("searchBtn");
@@ -105,3 +105,4 @@ document.addEventListener("click", e => {
     suggestionsBox.style.display = "none";
   }
 });
+
